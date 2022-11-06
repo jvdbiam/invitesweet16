@@ -75,3 +75,8 @@ text-align: center;
   font-size: 36px;
   text-align: center;
 }
+div.zoomed { 
+  zoom: 4; 
+  -moz-transform: scale(4); 
+  -moz-transform-origin: 0 0;
+} 
